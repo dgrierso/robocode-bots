@@ -15,7 +15,8 @@ import robocode.control.BattlefieldSpecification;
  * 
  * Description: E2 Module 2 robocode assignment for Team 2.
  * 
- * Parts of this code have been based upon code from: http://www.codepoet.org/~markw/weber/java/robocode/
+ * Parts of this code have been based upon code from:
+ * https://web.archive.org/web/20080228144224/http://www.codepoet.org/~markw/weber/java/robocode/
  *
  */
 public class DavidGrierson extends AdvancedRobot {
